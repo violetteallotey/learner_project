@@ -1,0 +1,226 @@
+Names,Age,Total_Purchase,Account_Manager,Years,Num_Sites,Onboard_date,Location,Company,Churn
+Kristin Davis,50,6857.29,0,4.69,6,7/8/2014 19:50,"090 Sara Track Apt. 195 Mooremouth, MP 50670","Gonzalez, Castro and Martinez",0
+John Richardson,52,10133.36,0,4.6,7,2/24/2014 17:27,"77435 Christopher Union Apt. 871 New Christophermouth, MA 95513-2675",Martinez Inc,0
+Daniel Brown,51,4992.6,0,3.85,8,2/12/2016 22:38,"701 Alan Corners Port George, KY 15579-3799",Mosley Ltd,0
+Eugene Rowe,50,12941.12,1,5.51,11,6/23/2015 9:54,"45548 Henderson Islands Bakerside, WV 92882-7688",Powell-Parker,0
+Cody Middleton,36,11040.16,0,4.52,8,4/14/2010 22:03,"86871 Jimenez Crest Suite 849 East Bruce, MO 68426-6342",Lawrence and Sons,0
+Kevin Chapman,35,8058.73,0,6.88,9,2/29/2016 18:23,"40094 Manning Pass Travisburgh, MT 80542",Ortega Group,0
+Margaret Moore,44,10638.65,0,5.54,6,6/4/2010 3:04,"2556 Grant Points New Christopherton, CA 76121-6565",Wright PLC,0
+Edwin Young,49,10226.43,0,6.02,8,2/27/2014 10:46,"6467 Brett Dam Houstonchester, DE 13162","Graham, Jones and Gonzalez",0
+Teresa Bean,38,12020.62,0,4.41,8,2/14/2007 0:56,"4962 Christian Squares North Belinda, OK 98156-7957",Garza LLC,0
+Justin Moore,51,12780.22,0,6.06,7,4/4/2015 11:06,"7790 Paul Street Sandraside, AR 55085","Callahan, Miller and Wallace",0
+Sarah Morgan,51,6662.59,1,5.27,9,10/3/2009 9:42,"2458 Tyler Flats Suite 696 Rebeccaburgh, VA 79274",Braun-Cook,0
+Amanda Hernandez,38,10298.29,1,5.07,9,5/31/2015 21:15,"4792 Amy Wall Apt. 296 Olsenchester, VA 69141-5857","Barry, Brown and Smith",0
+Tammy Williams,52,9065.28,0,3.99,5,12/13/2009 18:17,"6720 Barbara Square Christopherchester, UT 54226",Lawrence-Johnson,0
+Lawrence Gordon,44,8817.22,1,6.53,10,9/23/2009 9:35,"4041 Wise River Suite 828 West Todd, AR 08725-4767","Austin, Roberts and Cox",0
+Jodi Thompson,35,11391.46,1,7.59,10,12/28/2011 11:02,"4379 Sandoval Stravenue Suite 998 New Ryanberg, NM 05443-2529",Soto PLC,0
+Michelle Roberts,43,12531.39,0,3.97,6,4/28/2013 5:02,"5351 Ford Pike Apt. 399 Ericshire, IA 72849-0011",Marshall-Ho,0
+Colton Foster,43,9200.69,1,2.6,11,12/25/2012 6:18,"01690 Andrews Park Wrightville, IN 00886","Jennings, Stout and Spencer",0
+John Gardner,52,13368.21,1,4.09,9,12/23/2006 18:35,"16214 Henry Mission Pearsonside, PR 88434","Sherman, Lopez and Moran",0
+Holly Flores,47,15878.11,1,2.05,8,5/21/2012 12:56,"37362 Anthony Corner Suite 462 Port Saraton, ND 49109-1547",Reyes-Crawford,0
+William Branch,33,7720.61,1,4.97,10,4/16/2012 7:05,"90937 Andres Springs Apt. 164 Lindaland, TX 51026-5011",Mullen and Sons,0
+Patricia Mckinney,34,9270.9,0,6.19,7,4/29/2007 18:47,"04146 Ronnie Mission Suite 310 Nicoleshire, CT 39413-3387","Lewis, Green and Garcia",0
+Brandon Compton,44,8274.32,0,5.7,8,7/21/2016 2:39,"202 Richard Extensions Apt. 994 Pamelachester, IL 73985-9604",Sanchez-Cardenas,0
+Monica Hernandez,38,9347.47,0,8.47,8,1/23/2006 16:23,"8151 Ross Gardens Apt. 699 Randallton, NM 53386-6929",Finley-Moore,0
+Kathryn Petersen,40,12453.72,1,4.83,9,10/3/2006 9:45,"4030 Sullivan Viaduct Apt. 877 Lake Anthony, VT 89429",Nguyen-Wright,0
+Shelia Phillips,39,8644.07,1,4.48,8,5/14/2016 14:37,"451 David Vista Apt. 799 Danielsview, ND 69312",Norman-Holloway,0
+Sally Smith,45,11575.84,0,5.51,9,8/2/2012 9:18,"75262 Robert Centers Apt. 728 Vanessaside, TX 96244-2416",Webb PLC,0
+Joshua Huff,49,8268.74,1,5.21,8,1/19/2009 4:53,"064 Laurie Manor Suite 944 East Jimmy, IN 53776","Rivera, Perkins and Brown",0
+Daniel Washington,54,12147.83,1,4.17,8,5/14/2013 16:58,"1537 Mccullough Canyon Rodriguezview, AZ 74625-8762",Reeves-Scott,0
+Joseph Anderson,48,8093.03,1,4.26,8,10/12/2016 23:20,"1317 Mcdaniel Plaza Suite 219 Colleenview, TX 81040-7425",Ingram LLC,0
+Kylie Reynolds,28,9090.43,1,5.74,10,6/18/2014 0:45,"118 Natalie Islands Apt. 040 Lake Elizabeth, CO 60710",Cruz and Sons,0
+Chelsea Marsh,41,9552.57,0,3.81,8,2/5/2015 6:36,"854 James Ranch Smithfort, WA 12954",Wright-Olson,0
+Carlos Miller,47,9004.44,0,3.79,8,3/8/2015 8:03,"506 Arnold Greens Apt. 335 South Kyleton, DC 78683",Weaver Inc,0
+Lindsey Adams,46,14361.38,0,4.52,8,7/20/2008 8:40,"283 Mccarthy Fork Hubbardfort, PW 58105-7552",Morris-Williams,0
+Jerry Nguyen,36,8972.54,0,5.23,8,6/16/2009 4:20,"059 Angela Manor Latashaburgh, ID 26923-6555",Glenn-Nguyen,0
+Mark Ingram,44,11611.28,0,5.8,11,12/1/2007 21:35,"5035 Donald Points Suite 375 West Shirleyhaven, TN 41021",Smith-Lewis,0
+Casey Hess,43,9399.92,1,4.98,8,8/7/2014 7:57,"132 Angela Station Suite 770 Hillfort, LA 66223-8625",David-Woods,0
+Gary Odom,37,7982.38,1,4.29,8,1/15/2009 17:39,"0349 Kimberly Ridges Michaelburgh, AK 08955",Moran Inc,0
+John Snyder,36,6930.95,0,5.19,7,6/1/2013 17:31,"271 Rachel Village Westport, MT 33566-5694",Hardin Group,0
+Karen Wade,38,11667.01,0,3.8,8,10/21/2015 23:30,"726 Jackson Lakes Apt. 693 Kennethshire, NM 58470-9850",Mitchell-Clark,0
+Kathleen Salazar,31,5387.75,0,6.83,9,2/7/2008 9:54,"226 Zimmerman Haven Suite 223 Lake Jennifer, IN 39817",Morales-Miles,0
+Mary Frank,33,10709.39,1,5.22,6,2/2/2006 12:29,"11007 Tara Plains Apt. 842 South Amy, AK 31218","Ellison, Pace and Vaughan",0
+Lisa Reid,41,11623.42,1,4.18,9,12/29/2009 17:39,"499 Joshua Ramp Blankenshipmouth, AL 61436",Acosta PLC,0
+Nathan Hammond,53,9683.85,0,5.89,8,9/7/2006 18:40,"731 Danielle Roads Suite 482 Lisaburgh, ME 92139","Smith, Burke and Gonzales",0
+Theresa Terry,44,8819.13,1,4.38,10,5/21/2010 4:43,"2927 Butler Keys Suite 851 West Christophermouth, MS 35752-5027","Campbell, Moore and Garrett",0
+John Jones,44,7736.13,1,4.48,8,6/6/2013 9:25,"2297 Jackson Island Robertsfort, NH 79212-4023",Day LLC,0
+Teresa Smith,45,7158.66,1,6.25,7,7/24/2006 22:52,USCGC Fleming FPO AA 06534-5672,Villarreal-Ellis,0
+Heather Thompson,50,9248.87,0,4.56,9,1/30/2014 10:39,"896 Lewis Wells Martinezstad, MO 12686","Jacobs, Arnold and Schwartz",0
+Melanie Cain,40,11916.26,0,4.51,7,1/10/2015 0:21,"3046 Harrison Plains Montgomeryberg, ID 86180",Sims and Sons,0
+Kenneth Graham,50,9641.61,0,3.09,5,6/9/2010 21:23,"43996 Parks Spring Hooperland, TX 05090-6018",King-Atkinson,0
+Abigail Jennings,36,12309.23,1,4.76,9,3/11/2012 17:10,USS Mcgrath FPO AP 33786-7308,"Simpson, Byrd and Miller",0
+Andrea Ford,40,11362.95,0,4.37,11,10/8/2010 22:11,"2519 Martin Ports Suite 635 Martinport, AL 55438",Patton Group,0
+Johnathan Gonzalez,56,10074.4,1,5.17,7,10/30/2009 2:30,Unit 2030 Box 0281 DPO AE 67952-0118,Dixon PLC,0
+Katie Khan,40,10762.29,0,5.02,7,2/8/2015 22:43,"05418 Smith Brooks Richardfurt, DE 40166-1384","Gutierrez, Jones and Winters",0
+Michelle Johnson,30,8874.83,0,5.56,9,10/11/2006 7:09,"844 Charles Circles Suite 483 Davisborough, MH 73164-8781","Anderson, Miller and Wilson",0
+Hannah Best,51,5830.99,0,6.93,6,9/21/2011 20:54,"PSC 5882, Box 7573 APO AA 41758-4009",Cantrell-Paul,0
+David Morrison,35,8297.87,0,5.42,8,11/30/2009 6:01,"7000 Jack Lights Suite 115 Owensfurt, TN 18961-6571","Carpenter, Johnson and Krueger",0
+Cindy Olson,33,5738.82,0,7.66,7,8/2/2014 9:05,"423 Victoria Plain Suite 444 Brennanland, AL 79485-6882",Mann Ltd,0
+John Jackson,41,11655.82,1,7.92,9,8/30/2007 11:59,"5026 Susan Extension Apt. 261 South Thomas, UT 52610","Clark, Reid and Gardner",0
+Christine Livingston,47,7362.18,0,6.57,7,9/20/2012 8:19,"2871 Campbell Ports Davenportmouth, MN 38485","Sellers, Hendrix and Gonzales",0
+Mrs. Brittany Lopez,43,10938.11,0,3.21,8,1/26/2006 3:15,"2493 Robert Road South Denise, IA 86444",Brown-Weaver,0
+Paula Willis,36,8514.8,1,4.01,11,8/14/2010 10:50,"8191 Lopez Prairie Apt. 038 Cookefurt, DE 64637-6065",Flores-Ochoa,0
+Ryan Martin,34,8772.26,0,5.78,9,2/14/2014 14:40,"930 Carrie Harbor Suite 044 New Adamtown, MP 74903",Jones Inc,0
+Roy Case,40,7656.02,1,5.62,9,1/17/2012 14:47,"PSC 1326, Box 7408 APO AA 41399-9709","Jennings, Gates and Villarreal",0
+Henry Krueger,41,10375.39,0,5.54,8,8/30/2007 15:27,USNS Conway FPO AE 45887,Berg PLC,0
+Jaime Padilla,46,7684.02,1,6.24,8,4/26/2011 19:04,"48403 Anderson Fields Apt. 103 New Jasonshire, NM 49852-3578",Richardson LLC,0
+Barry Gallagher,52,6805.48,1,6.05,9,6/4/2010 12:28,"35333 Carla Keys Robinsonchester, CA 02095",Butler PLC,0
+Andrew Young,30,6744.87,0,5.14,9,4/10/2014 3:33,"30316 Melissa Hills Apt. 368 Cynthiaborough, MN 06736",Morris LLC,0
+Amy Henderson,31,10058.87,1,6.54,7,2/7/2011 17:54,"85837 Thomas Dam Nicholasview, MT 98793-4972",Knox-Davis,0
+Theresa Ford,40,9133.36,0,4.21,7,1/19/2015 23:48,"9885 Mills Dale Suite 830 West Wendyton, WA 46448",Thornton Inc,0
+Donald Flores,46,11580.56,1,3.43,9,5/9/2014 4:48,"30890 Gloria Oval Friedmanshire, OK 78837-9606",Harris-Pratt,0
+Sarah Schmidt,41,10631.84,1,3.47,9,4/12/2008 10:56,"461 Alexandria Station Kennethton, WY 83953","Thomas, Powers and Price",0
+Melissa Hall,32,10716.75,0,5.12,8,9/27/2006 19:54,"550 Lindsay Bypass Suite 011 South Jamietown, MH 27730-3707","Bates, Montgomery and Rodriguez",0
+Annette Taylor,41,10919.81,0,4.63,8,4/7/2013 23:27,"27767 Amy Curve Lake Daniel, NM 73021-5259",Zimmerman Group,0
+Robert Allen,48,10241.32,1,7.25,7,10/29/2014 10:48,"510 Nicholas Island Suite 493 Buckchester, MO 58572-4430",Williams Ltd,0
+Jessica Howard,46,9171.56,1,5.02,8,11/7/2011 15:05,"8486 Brandon Fall Apt. 024 Matthewberg, SC 32892-2661",Mullins Ltd,0
+Michael Lam,40,7675.52,1,4.31,11,5/27/2012 0:16,"63714 Sawyer Glens New Tonimouth, FL 73286-2490",Olson-Davis,0
+Nancy Thompson,36,13308.01,0,5.07,8,1/20/2009 0:52,"847 Holly Loaf Apt. 839 East Nancyberg, DC 64194-2557",Garcia-Mckinney,0
+Steve Lewis,37,7961.21,0,2.91,9,6/12/2014 12:47,"865 Mitchell Causeway Suite 183 Meredithshire, AR 80502-3040",Clarke-Gonzalez,0
+Amanda Brown,32,12403.6,0,4.99,7,5/30/2008 3:35,"48681 Jensen Vista South Kevin, ND 80285",Hoffman Ltd,0
+Danielle Morris,46,10814.59,0,4.91,8,5/9/2010 12:25,"773 Brenda Vista Jensenshire, CO 78345","Cooper, Cohen and Knight",0
+Jessica Hernandez,31,8829.83,1,4.52,8,2/2/2006 21:26,"6113 Jerome Locks North Trevormouth, GA 25773",Hunt-Whitaker,0
+Nicole Richards,52,7170.66,1,4.53,7,5/11/2014 16:14,"0667 Bennett Forge Ingramchester, VI 46819-7446",Fisher-Hamilton,0
+Lauren Johnson,47,10332.16,1,4.89,9,8/6/2016 0:18,"2959 Amanda Plain Suite 180 Webbside, NY 47046","Davenport, Miller and Murphy",0
+Wendy Moore,41,14722.35,0,6.98,6,5/28/2011 8:09,"8202 Jade Unions Suite 557 South Wesley, MS 12025",Walker-Harris,0
+Destiny Steele,39,13532.85,1,5.63,9,11/13/2010 11:16,"0784 Arnold Mountains Apt. 356 Thompsonview, IL 54999-9574",Hall LLC,0
+Dakota Porter,41,7683.97,1,6.17,7,8/23/2007 19:38,"1005 Butler Manors Richardland, KS 45645-6252",Nguyen PLC,0
+Sara Campbell,47,6398.91,1,5,8,2/16/2013 16:40,"931 Soto Bridge Apt. 205 Michelleland, NM 64707-3332",Conner LLC,0
+Manuel Hill,37,14595.51,1,3.83,12,1/2/2007 22:09,"7589 Munoz Mountain Port Gina, VI 08937-6155","Hill, Abbott and Wu",0
+Douglas Lee,48,6783.99,1,3.89,8,3/29/2012 2:43,"088 Ayala Crossroad Lindafurt, MI 82946-5835","Jensen, Morton and Edwards",0
+Charles Doyle,35,8190.27,0,6.28,7,3/7/2012 17:36,Unit 1897 Box 1607 DPO AE 86804,Smith-Carroll,0
+Rebecca Hamilton,45,9317.12,1,6.93,6,12/16/2013 7:56,"75047 Jones Ports Apt. 238 Port Zacharymouth, HI 02693",Lee-Roman,0
+Dominique Kemp,40,10370.72,1,4.35,5,3/28/2016 2:06,"478 James Spurs North Thomas, MT 77158-1870",Richardson Inc,0
+Thomas Parker,42,12277.9,1,5.1,8,1/20/2009 7:54,"10575 Jacob Manors Apt. 623 Port Jonathanview, WV 63831-0620",Cook LLC,0
+Aaron West,55,10056.55,0,4.98,8,9/1/2006 6:11,"071 Schmidt Locks Apt. 070 West Jessica, OK 60879-6593","Cruz, Russell and Boyd",0
+Samantha Clark,35,12398.62,1,5.6,9,11/17/2016 9:21,"0385 Smith Spring West Douglasmouth, CA 33773-7684",Grimes Inc,0
+Patrick Campos,40,10290.14,0,4.6,10,10/23/2013 1:16,"53895 Michael Ways Port Michael, FM 10805","Fernandez, Rodgers and Miller",0
+Kevin Hicks DDS,49,9957.26,0,4.76,7,9/1/2009 11:37,"096 Dunn Street Jasonshire, NC 06461-2275","Cooper, Mcguire and Nguyen",0
+Joseph Hall,35,13480.91,1,4.41,7,6/19/2008 23:34,"6926 Martin Ramp Thomastown, AZ 58814",Anderson PLC,0
+Samantha Flores,39,11670.73,0,6.45,8,6/24/2006 0:46,"793 Powell Fort Amandaview, GA 95747-4560",Williams PLC,0
+John Castillo,31,7073.61,0,5.73,9,12/10/2010 11:20,"9831 Amy Square Holmesberg, RI 14826-3752","Richmond, Daniels and Lee",0
+Christy Hamilton,45,9852.25,1,4.55,8,8/14/2009 22:27,"41390 Vazquez Mall Billystad, VI 57475-0791","Richard, Flores and Walsh",0
+Jay Mosley,40,6402.3,0,4.28,7,5/5/2015 10:00,"885 Samantha Estates Apt. 694 Michaelland, NC 35223","Martinez, Gonzales and Williams",0
+Sonya Lewis,48,9282.99,0,4.32,6,9/19/2015 12:58,"191 Timothy Villages Suite 755 New Jamestown, NY 42120-2598","Bowman, White and Shepherd",0
+Pamela Bell,37,8884.39,0,6.16,7,2/27/2016 17:13,"9249 Bradford Parkways Suite 173 Amandaside, AK 12919-8330",Jacobson PLC,0
+Evan Davis,46,13296.89,1,4.81,6,9/14/2011 19:09,"63845 Bell Mission Browninghaven, VA 72168",Willis-Bradshaw,0
+Jonathan Jones,35,7361.92,1,4.97,9,3/11/2014 15:01,USNS Ward FPO AP 80938,French and Sons,0
+Richard Rojas,54,8092.55,1,4.55,10,4/30/2013 5:34,"01175 Soto Place Lake Brittany, KY 33704-2728",Dominguez-Fischer,0
+Jerome Pitts,39,9528.99,0,5.97,8,1/2/2010 19:57,"4909 Mcdonald Mews Johnsonmouth, CT 20707",Brock-Lee,0
+Yolanda Jackson,53,8122.34,0,3.51,9,7/30/2009 7:28,"7248 Wheeler Forks South Wendyport, KY 21877-0885",Smith Group,0
+Jessica Wells,41,14738.09,1,6.5,8,6/8/2008 1:08,"57837 Tammy Bridge Apt. 904 Lake Lindsey, NM 53078-4180",Sullivan-Ramsey,0
+Mark Choi,34,11687.29,0,4.54,7,12/9/2013 1:38,"688 Tiffany Fork Wallacemouth, ND 74929-3917",Estrada-Golden,0
+Megan Wilson,43,7948.18,0,3.88,7,3/29/2006 0:55,"871 Campbell Fall Allenville, NY 42045-5154",Montgomery-Edwards,0
+Kathleen Reid,42,7915.44,1,6.17,8,7/15/2013 10:20,Unit 7599 Box 9818 DPO AP 02154,Williams PLC,0
+Walter Bates,40,10180.59,1,6.5,10,8/10/2012 9:19,"58605 Wiley Manor Apt. 796 Atkinstown, TX 41691",Jones LLC,0
+Rita Young,44,8748.36,1,6.32,10,10/6/2015 18:31,"4331 Quinn Fords Suite 546 Traceyfort, CO 47194-7606","Butler, Riggs and Brown",0
+David Sanders,41,8021.05,1,3.16,9,10/5/2016 16:14,Unit 6283 Box 6735 DPO AP 09454-8286,Wilson PLC,0
+Thomas Richardson,44,10445.76,0,7.02,8,10/11/2014 14:08,"8204 Leach Point Suite 900 Port Melissafort, TN 80024",Schmidt-Schroeder,0
+Victoria Shaffer,34,9919.38,0,4.43,8,8/6/2015 2:01,"2776 Maxwell Falls Lake Brian, MP 68585-6704",Green LLC,0
+Dwayne Ryan,39,10741.9,0,5.48,8,3/9/2013 0:30,"676 Carlos Port Apt. 925 Anitamouth, VA 05134-0836",Williams and Sons,0
+David Moore,40,7380.48,1,6.45,7,9/4/2007 21:22,Unit 8071 Box 5003 DPO AE 63421-4620,"Harris, Carter and Brown",0
+Matthew Huffman,45,9649.26,1,3.77,9,5/9/2016 0:40,"1651 Amber Court Lake Robert, ND 52826","Johnson, Brown and Frazier",0
+Mary Kent,42,9349.99,1,4.38,7,12/9/2011 19:21,Unit 0590 Box 7532 DPO AE 12062-5301,Houston-Cuevas,0
+Molly Young,46,12849.1,0,4.97,8,8/3/2014 18:34,"54656 Grant Junctions Suite 070 New Toni, NM 42346","Silva, Wolfe and Ross",0
+Eric Castro,38,10770.82,0,4.99,10,6/19/2016 1:23,"80338 Scott Trail New Sandraview, WV 30882",Campbell-Willis,0
+Tammy Johnson,35,8828.59,0,6.77,9,7/23/2008 6:09,"653 Smith Avenue South David, GA 19037","Carr, Mills and Wilson",0
+Mallory Powell,48,9921.89,0,3.73,9,9/15/2013 19:40,"6312 Stuart Stravenue Port Wesleychester, MN 71667-5670",Carter-Novak,0
+Michael Nichols,45,6977.56,0,6.94,11,2/24/2007 23:32,"13664 Brandon Trail Robertshire, AK 53957",Rogers-Davis,0
+Jason Stevenson,44,8580.85,0,5.52,10,7/25/2011 18:58,"605 Stephen Glens Lake Juan, SD 28552","Cruz, Moore and Olsen",0
+Andrea Warner,46,10469.5,0,6.54,10,3/24/2011 17:01,"753 Hernandez Pines Apt. 505 North Manuelstad, MI 14141-9782",Bailey LLC,0
+Susan Casey,55,8907.17,1,7.6,11,1/7/2016 23:17,"8392 Jose Islands Apt. 208 Davisbury, MA 60135-6097",Jenkins and Sons,0
+Billy Garner,46,10050.61,0,4.99,7,11/6/2009 13:24,"68569 Sharon Centers Apt. 331 West Ryanport, FM 66389-2936",Brooks Inc,0
+Matthew Dixon,38,10522.6,1,5.46,10,12/27/2007 12:11,"498 Oliver Station Suite 474 Lake Traceyberg, NV 37689-1762",Mata LLC,0
+Jessica Sharp,34,9265.59,0,5.77,8,6/24/2013 6:57,"597 Jones Passage Apt. 958 Fischerbury, AK 60046",Pittman Inc,0
+Elizabeth Drake,40,10930.16,1,6.63,7,5/28/2014 16:08,"540 Benjamin Villages East Ashley, TN 27044-8930",Francis-Powers,0
+Tina Schmidt,45,10668.91,0,7.21,8,9/21/2011 5:53,"253 Megan Drive Apt. 447 Berryport, AL 03400-5942",Hall Ltd,0
+Elizabeth Kennedy,47,11335.97,0,6.84,6,6/26/2014 2:50,"07770 Henry Ways Suite 523 Larsonchester, NE 05818","Davis, Curry and Wallace",0
+Brandy Martinez,41,12247.91,0,5.08,9,6/30/2006 11:15,USNV Mcgee FPO AA 17726-1322,Smith Ltd,0
+Trevor Henderson,47,9303.43,0,5.5,8,4/14/2010 20:39,USCGC Bailey FPO AA 06202-5064,Johnson-Rodriguez,0
+Brandi Bryan,38,9826.29,0,4.93,8,1/9/2010 8:46,"502 Kenneth Trace Apt. 355 Huntshire, HI 51078","Graham, Wilson and Rios",0
+Curtis Robinson,37,10565.59,0,4.76,10,1/28/2006 1:22,"59027 Andrea Neck Apt. 438 North Makaylaside, OR 67470-1233",Pearson-Gonzales,0
+Daniel Barton,44,9855.18,0,6.94,7,6/10/2011 20:04,"551 Davis Crescent New Aliciaport, TX 94552-1600",Davidson Group,0
+Carolyn Cabrera,51,7810.06,0,5.99,9,8/9/2012 19:53,"728 Sanders Centers Suite 047 Codyview, VI 66568",Friedman-Smith,0
+Mary Marshall,39,11144.51,0,4.25,9,3/7/2008 11:04,"57559 Kelli Stream Apt. 332 Dunlapburgh, CA 43743-8629",Chavez-Patterson,0
+Thomas Campbell,36,8931.09,1,7.55,7,9/13/2006 4:18,"PSC 9216, Box 6338 APO AP 73140",Williams LLC,0
+Christopher Clark,50,8929.88,0,5.63,7,4/22/2012 17:32,"69666 Christian Forges Lake Noah, IL 14397",Thompson-Mcdonald,0
+Rose White,35,9435.2,1,6.23,7,3/29/2006 18:27,"715 Ellis Squares New Kathleenland, NY 05913",Vang-Stewart,0
+Derek Martinez,40,11553.65,1,4.43,6,8/29/2011 6:35,"3004 Nash Freeway North Craigville, CT 24488",Kramer PLC,0
+Wendy Key,60,9621.04,1,7.65,8,3/6/2013 7:43,"98190 Gonzalez Drives Apt. 592 Lake Oliviachester, VT 54602-1656","Taylor, Johnson and George",0
+Lisa Fisher,43,11401.42,0,3.63,10,8/23/2014 17:03,"7234 Amy Forge Suite 123 East Sarah, DC 50257-3728",Davis Inc,0
+Kyle Hinton,43,10491.4,1,4.23,8,9/14/2014 6:55,"7029 Fowler Pike Heathermouth, OK 59658-7247","Woods, Herrera and Fritz",0
+Travis Howell,44,10585.86,0,5.54,8,3/23/2006 14:01,"946 Glass Cliffs Suite 105 Ashleemouth, GU 89701-5653",Schroeder-Phillips,0
+Vanessa Donaldson,52,10697.72,0,8.35,8,5/14/2013 23:24,"08605 Scott Stream Apt. 968 New Andrea, DC 08316-2838",Davis Group,0
+Kathy Robertson,37,11430.75,0,5.99,10,1/2/2015 20:11,"7260 Boyd Shoal Thomasshire, MI 49243",Graham LLC,0
+Katie Nichols,48,8465.53,1,4.98,9,9/6/2008 15:15,"PSC 5066, Box 5675 APO AP 96072-8914",Murray Inc,0
+Shannon Miller,35,7759.15,1,6.06,10,7/18/2013 22:25,"826 Ross Causeway Wardshire, ME 25891",Nelson LLC,0
+Stacy Marshall,42,13081.64,0,4.66,9,5/12/2012 13:03,"896 Kevin Orchard Apt. 755 West Rogerchester, KY 62941",Daniels LLC,0
+Heather Little,33,4711.89,0,4.97,7,9/24/2009 1:06,"158 Aaron Station Apt. 788 Millsport, VA 88018",Vaughan Group,0
+Jose Rowland,36,12252.57,0,5.13,8,2/11/2014 19:43,"186 Macdonald Causeway Woodstown, KY 52059-9294","Ross, Martinez and Dawson",0
+Brittany Martinez,39,13029.61,1,4.83,8,11/9/2015 2:41,"4019 James Street Apt. 731 North Carmen, OK 01929","Ryan, Mcdonald and Garcia",0
+Charles Ellison,43,10746.69,0,8.62,9,8/30/2011 12:50,"7082 Paul Divide Suite 132 New Nicolas, WI 35732",Mills Group,0
+Dr. Kathleen Wiley,45,8665.79,0,5.09,9,8/31/2008 5:40,"1615 Angela Valley Henryfurt, ID 45145-3704",Clark Group,0
+Justin Roman PhD,34,5447.16,1,4.13,9,1/13/2014 16:11,"489 Daniel Way Suite 895 West Yeseniamouth, ME 71475","Horton, Byrd and Hernandez",0
+Daniel Todd,37,9772.95,1,3.81,8,6/19/2013 11:25,"7960 Ryan Circles Wilcoxhaven, ME 98912",Vega-Moss,0
+Eugene Robertson,41,7464.08,0,3.74,8,3/10/2008 0:42,"87999 Knight Pine Apt. 281 Morenoland, ID 20602-9996",Miller-Wagner,0
+Frank Chase,39,6168.66,1,4.71,8,1/5/2006 11:26,USNS Potts FPO AA 56275,"Harvey, Thompson and Moss",0
+Nancy Martin,34,12567.53,0,3.36,11,4/2/2009 10:00,"512 Wesley Stream West Scottborough, ND 44332-3438",Diaz-Osborne,0
+Duane Mcdonald,55,8280.03,0,6.33,5,7/31/2013 3:51,USNV Nielsen FPO AA 31326,Armstrong-Hicks,0
+Heather Daniel,36,11274.98,0,4.12,10,3/24/2015 15:09,"25793 Phillips Cliff Travisview, WV 48402-6882","Martin, Dickerson and Roberson",0
+Michelle Berry,42,9635.87,1,2.43,9,12/10/2013 16:06,"091 Mark Drive Suite 656 East Mirandaton, LA 67137-0061",Clark and Sons,0
+Claire Rivera,48,13743.12,1,4.83,7,5/24/2016 4:02,"35166 Roberta Skyway Coreyfort, MO 59637-8470","Wade, Rowland and Jenkins",0
+Benjamin Huff,45,8871.53,0,3.76,8,3/6/2007 12:55,"205 Hall Mission Apt. 211 South Matthew, HI 81737-8521","Hurley, Moody and Gomez",0
+Bradley Chambers,37,8818.03,1,2.89,9,5/4/2014 18:26,"PSC 6159, Box 4526 APO AA 00585",Wilson LLC,0
+Terry Kelley,37,9788.78,0,5.24,7,2/25/2013 23:36,USCGC Lee FPO AE 62096-3283,Long-Williams,0
+Kenneth Fuller,34,6131.92,0,4.17,9,2/13/2013 3:34,"12801 Mcdowell Meadows Suite 614 Port Susanshire, OH 89980","Campbell, Williams and Mccarty",0
+Stephen Reed,40,12043.27,1,5.04,7,2/14/2013 3:05,"486 Washington Fields Josephhaven, VI 31007",Todd LLC,0
+Angela Holloway,40,12919.92,0,4.23,11,10/29/2009 16:25,"7488 Dana Mountain Suite 133 Lake Desireeport, MD 40139-0534",Ray-Rodriguez,0
+David Carter,38,10367.14,0,5.92,9,2/11/2014 20:45,"478 Wilson Gateway Apt. 606 New Tanyafort, WA 18702",White Group,0
+Nancy Bartlett,44,9063.16,1,4.76,8,12/17/2012 4:57,"862 Parks Center Apt. 794 Barrfort, NV 83967-0913",Porter-Dunn,0
+Jason Hebert,40,10606.97,1,4.11,10,3/19/2013 10:44,"26996 Nicole Ridge Suite 342 Lake Robertside, OK 04293",Hawkins-Escobar,0
+Gerald Mullins,42,8558.52,0,5.36,7,6/4/2009 17:54,"10282 Megan Island Port Carla, FM 85303-6406",Hamilton PLC,0
+James Smith,43,11375.25,1,5.09,9,4/29/2013 23:11,"6510 Debra Estates Port Lucasberg, NY 90239-6448","Cooper, Martin and Reid",0
+Samantha Munoz,48,8514.24,0,4.61,9,9/21/2007 20:21,"68861 Clarke Trail Apt. 668 Bakerchester, OK 24227",Garza Inc,0
+Megan Smith,39,12019.93,0,4.87,10,9/26/2010 3:46,"733 Sophia Springs Suite 169 East Shawn, MO 90668-3810",Stanley and Sons,0
+Gregory Chandler,38,9419.66,1,5.24,9,3/26/2006 0:38,"863 Marquez Brooks West Tommychester, MT 16982-2044",Gomez-Petersen,0
+Crystal Smith,33,10309.71,1,2.96,7,1/28/2014 7:38,"893 Carla Trace Suite 132 Lake Aliciaport, AR 87567","Chan, Patterson and Smith",0
+Juan Simmons PhD,47,10313.06,0,5.44,8,11/8/2010 2:42,"496 Watts Roads East Alejandro, NC 70921-5585",Martinez PLC,0
+Monica Downs,34,13460.92,1,3.67,7,5/25/2007 8:54,"53283 Collins Walk Suite 363 South Shawnfort, MS 76289",Green PLC,0
+Paul Wilson,54,10216.59,0,2.77,7,1/17/2008 16:01,"8764 Wilson Plaza New Sharonview, MT 83968","Williams, Mcintyre and Burns",0
+Sandra Hogan,37,12766.24,0,3.72,9,6/14/2010 20:59,"12928 Heather Island Apt. 889 East Michelle, KY 96712-4016",Yu-Murillo,0
+Anna Wood,38,11360.99,0,4.5,7,8/6/2008 5:26,"33021 Cody Falls Apt. 693 Bellfort, NM 76335-9037",Miranda-Sloan,0
+Patrick Edwards,47,9166.22,0,3.51,9,3/19/2015 5:04,"215 Gardner Islands Apt. 747 East Jonathanmouth, AL 62844-5315",Pierce and Sons,0
+Matthew Clayton,41,8996.04,1,6.19,9,4/20/2011 6:33,"866 Huffman Ports Suite 795 South Stacyport, KS 32492",Morgan and Sons,0
+Mark Marquez,55,9743.57,0,5.89,8,7/11/2009 5:41,"631 Christopher Mount South Abigailport, LA 19480",Martin-Cobb,0
+Alexis Allen,43,7686.13,1,7.17,8,9/27/2016 7:00,"7448 Jason Ridges Heatherfort, GU 92916-6774",Jones and Sons,0
+Melissa Coleman,29,13255.05,1,4.89,8,2/21/2016 14:20,"9334 Colleen Passage Apt. 344 Michelleberg, MD 31481","Gonzalez, Abbott and Lane",0
+Terry Curtis MD,48,8403.02,0,3.61,11,3/13/2016 7:22,"080 Jamie Way Cartermouth, MA 05582",Blackburn-Bush,0
+Jessica Campbell,43,7277.27,1,5.98,8,9/20/2014 3:34,"510 Armstrong Square Davisshire, SC 57672-9166",Bates and Sons,0
+Brandon Wilson,32,8575.71,0,4.26,9,11/15/2006 14:58,Unit 6545 Box 5723 DPO AP 79461,"Parker, Hoffman and Pugh",0
+Meghan Jackson,46,9844.79,0,3.57,11,1/3/2010 10:44,"6574 Travis Extensions New Casey, RI 40982",Phillips-Peters,0
+Jeffrey Simpson,42,7529.23,1,5.86,7,2/15/2006 12:09,"913 Thomas Dale Harristown, OR 05449-4141","Thompson, Vaughan and House",0
+Cheryl Hernandez,46,4111.4,0,3.93,8,2/18/2010 18:40,"7772 Elizabeth Ridge North Chloe, AL 79941",Beltran Group,0
+Amy Riddle,45,8389.84,1,6.81,5,8/19/2009 8:06,"4964 Page Estate East Richardmouth, OK 43652",Parker PLC,0
+Linda Moore,40,7864.63,0,4.56,9,9/11/2008 19:53,"2736 Sharon Spring South Joshuafort, FM 69643",Wilson PLC,0
+Carol Bush,39,8677.62,0,5.2,7,2/26/2007 18:24,"210 Ray Estates East Debbie, SD 40157-2687",Miller-Morgan,0
+Gail Lopez,25,9672.03,0,5.49,8,1/2/2006 4:16,Unit 8122 Box 5528 DPO AP 49927,"Chapman, Howard and Campos",0
+Joseph Bauer,33,11370.28,1,4.4,6,3/8/2010 19:38,"580 Beasley Junctions Apt. 927 Woodston, AZ 17941",Patterson LLC,0
+Kayla Foley,44,13915.9,0,4.61,9,4/4/2008 4:04,"636 Dana Spurs Apt. 334 West Amytown, NC 29641","Campbell, Velasquez and Porter",0
+Teresa Reyes,35,10999.05,0,4.76,10,2/8/2009 13:41,"831 Heidi Stream Apt. 991 West Taylorstad, ID 48825-5453","Mendez, Harris and Gordon",0
+Shannon Potter,39,7636.98,0,5.56,9,2/20/2013 7:41,"741 Nicole Via Apt. 202 Lake Darrellberg, WI 22772","Riddle, Baldwin and Brown",0
+Barbara Singleton,38,9461.83,0,4.9,10,8/2/2012 14:55,"176 Cheryl Plains Suite 253 Harrisonmouth, PW 17373-8223",Kennedy and Sons,0
+Kayla Reeves,38,100,0,5.27,5,10/3/2006 9:01,"1511 Porter Drive Amberberg, NC 44608",Stewart-Lopez,0
+Tami Smith,53,9655.25,0,4.44,10,10/19/2006 1:12,"30920 Bell Passage Suite 036 Annafort, PR 57518-0173",Neal and Sons,0
+Brandon Hunter,45,15188.65,0,6.17,8,7/7/2010 22:11,"285 Rhonda Harbors Trevinochester, TX 18888-5407",Ramos PLC,0
+Lisa Rodriguez,49,14124,1,3.02,10,12/17/2014 2:27,"567 Ian Loop Lambertberg, MA 68810-6480","Rocha, Wagner and Chandler",0
+Eric Martin,44,14155.97,1,6.99,8,5/31/2006 9:24,"162 Paul Freeway Apt. 301 New Jessicaton, SC 29138",Warner-Welch,0
+Sharon Hull,37,11294.26,0,4.95,10,11/9/2007 16:04,USCGC Collier FPO AE 40469-8677,Bradley-White,0
+Allison Clark DDS,43,14241.75,0,3.73,12,7/11/2006 11:32,"PSC 9202, Box 1991 APO AA 75619",Robinson-Perez,0
+Nicholas Williams,43,11334.3,0,3.47,9,1/21/2014 22:14,"600 Rachel Manor Port Mary, SD 03631-0936",Haley Inc,0
+Wanda Hess,34,7818.13,0,6.11,8,3/2/2006 1:45,"3334 Alvarez Streets Apt. 358 Joyceton, MH 42340-8249",Mccarty-Stevens,0
+Fernando Ramsey,47,11520.18,1,5.07,9,12/4/2014 9:09,"73285 Norman Ramp Apt. 829 Tommyport, ID 38974-8331",Anderson-Palmer,0
+Sylvia Crawford,47,7996.78,1,5.45,8,7/23/2009 6:05,"032 Craig Lane Robertstown, AK 35233",Nguyen-Grant,0
+Trevor Burns,27,8628.8,1,5.3,7,4/11/2016 8:58,"2786 Collins Loaf Susanchester, CT 84620-3615",King LLC,0
+Kristen Terry,39,10292.19,0,4.99,8,11/12/2015 3:06,"2091 Antonio Tunnel Apt. 841 Gibsonburgh, GU 98706",Rodriguez Group,0
+Mr. Joseph Garcia,32,11540.86,0,3,7,12/30/2008 8:28,"3028 Robles Road South Megan, CT 13834-0339","Zuniga, Clark and Shaffer",0
+Lauren Nelson,40,7490.92,0,4.75,5,8/5/2013 20:26,"341 Benjamin Knolls Robertview, ND 28469-9018",Hall Inc,0

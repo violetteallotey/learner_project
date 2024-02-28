@@ -25,3 +25,7 @@ Cleaning and preparing a dataset is an essential step in the data analysis proce
 
 ## 1. Import Necessary Libraries <a name="import-necessary-libraries"></a>
 First, import the required libraries for data manipulation and analysis. Commonly used libraries include pandas and numpy.
+
+```bash
+ import pandas as pd
+ import numpy as np

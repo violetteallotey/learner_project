@@ -29,3 +29,35 @@ First, import the required libraries for data manipulation and analysis. Commonl
 ```bash
  import pandas as pd
  import numpy as np
+```
+
+## 2. Load the Dataset <a name="load-the-dataset"></a>
+Load your messy dataset into a pandas DataFrame.
+
+```bash
+data = pd.read_csv('messy_dataset.csv')
+
+```
+
+## 3. Explore the Dataset <a name="explore-the-dataset"></a>
+Understand the structure of the dataset and identify any issues such as missing values or duplicates.
+
+```bash
+# Display the first few rows
+data.head()
+
+# Check summary statistics
+data.describe()
+
+# Check data types
+data.dtypes
+
+# Check for missing values
+data.isnull().sum()
+
+# Check for duplicate entries
+data.duplicated().sum()
+```
+
+## 4. Handle Missing Values <a name="handle-missing-values"></a>
+Decide on a strategy to handle missing values, such as imputation or deletion.
